@@ -1,0 +1,8 @@
+[servers]
+server1 ansible_ssh_host=139.59.56.153 ansible_user=root
+
+[clients]
+client1 ansible_ssh_host=165.22.208.115 ansible_user=root
+
+[control]
+localhost ansible_connection=local
