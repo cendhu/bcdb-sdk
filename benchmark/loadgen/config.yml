@@ -15,5 +15,5 @@ sessionConfig:
 
 workloadConfig:
   numOfClients: 2
-  loadPerClient: 100
+  loadPerClient: 500
   runtime: 10s

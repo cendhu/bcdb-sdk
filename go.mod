@@ -3,7 +3,7 @@ module github.com/IBM-Blockchain/bcdb-sdk
 go 1.16
 
 require (
-	github.com/IBM-Blockchain/bcdb-server v0.1.1-0.20210624125515-dc5c72e08784
+	github.com/IBM-Blockchain/bcdb-server v0.1.1-0.20210720094933-8348ab1c1f11
 	github.com/davecgh/go-spew v1.1.1
 	github.com/golang/protobuf v1.5.2
 	github.com/pkg/errors v0.9.1
